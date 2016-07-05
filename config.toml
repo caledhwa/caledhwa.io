@@ -1,0 +1,13 @@
+baseurl = "http://caledhwa.io/"
+title = "Cale Hoopes"
+languageCode = "en-us"
+disqusShortname = "caledhwaio"
+copyright = "Copyright (c) 2016, Cale Hoopes; all rights reserved."
+MetaDataFormat = "yaml"
+
+[author]
+    name = "Cale Hoopes"
+
+[indexes]
+    tag = "tags"
+    topic = "topics"
