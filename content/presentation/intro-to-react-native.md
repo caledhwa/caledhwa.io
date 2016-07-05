@@ -12,7 +12,7 @@ topics:
 
 Some stuff
 
-Originally given in Plano June 18 at [Capital One SECON](http://www.capitalone.io/).
+Originally given in Plano June 18 at [Capital One SECON](https://www.capitalone.io/).
 
 {{% slideshare 99999999 %}}
 
